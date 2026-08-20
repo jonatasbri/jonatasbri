@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Jônatas Brizola! 👋
 
-<!--
-**jonatasbri/jonatasbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Web em formação pelo SENAC São José dos Campos, transicionando para a área de Tecnologia com foco em **Desenvolvimento Web**  e **Inteligência Artificial aplicada à Análise de Dados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Habilidades
+- **Linguagens:** PHP, JavaScript, HTML5, CSS3
+- **Banco de Dados:** MySQL
+- **Ferramentas & Ambientes:** Git, GitHub, Linux, WordPress
+- **Interesses:** Automação de processos, Suporte Técnico, Análise de Dados com IA
+
+---
+
+### 📌 Sobre mim
+- 🎓 Cursando Técnico em Informática no SENAC São José dos Campos.
+- 💡 Buscando constante evolução profissional e aprendizado de novas tecnologias para geração de valor e solução de problemas.
+- 📬 **Contato:** [jonatas500@gmail.com](mailto:jonatas500@gmail.com) | (12) 98292-5599
