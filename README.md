@@ -1,4 +1,4 @@
-# Olá, sou o Jônatas Brizola! 👋
+# Olá, sou o Jonatas Brizola! 👋
 
 Desenvolvedor Web em formação pelo SENAC São José dos Campos, transicionando para a área de Tecnologia com foco em **Desenvolvimento Web**  e **Inteligência Artificial aplicada à Análise de Dados**.
 
